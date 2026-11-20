@@ -21,9 +21,38 @@ Desarrollar una API REST y una base de datos SQL que permitan al cliente gestion
 5. Control de versiones con Git y GitHub
 6. Gestión del proyecto con metodologías ágiles (SCRUM)
 
-## 📅 Plazos
 
-Dos semanas.
+## 👥 Trabajo en equipo
+
+Este proyecto se trabaja en equipo.
+
+### Historias de usuario
+
+Cada persona es responsable de sus propias historias de usuario, de principio a fin.
+
+- El grupo elige el negocio, escribe las historias de usuario y las reparte. Todas las personas tienen al menos una.
+- Quien tiene una historia la programa, la prueba y sabe explicarla.
+- Cómo se organiza cada persona para sacarla adelante es libre: sola, en pareja o combinando.
+
+### Pair programming
+
+El pair programming es una herramienta del grupo, disponible para quien la quiera usar.
+
+- Cualquiera puede proponer una sesión en pareja: para desbloquearse, para aprender algo que la otra persona domina o para sacar una parte difícil.
+- En pareja, quien es responsable de la historia escribe el código y la otra persona acompaña.
+- Quien prefiere avanzar por su cuenta puede hacerlo. Su trabajo pasa igualmente por pull request.
+
+### Git y tablero
+
+El repositorio y el tablero muestran quién hizo qué y cómo va el grupo.
+
+- **Ramas:** `main`, `develop` y una rama por historia, con el identificador en el nombre (por ejemplo `feat/US-03-crear-cliente`).
+- **Commits:** pequeños, por funcionalidad y con convención (`feat:`, `fix:`, `docs:`, `test:`).
+- **Pull requests:** cada historia entra a `develop` por pull request. La revisa otra persona del grupo.
+- **Tablero:** se crea el primer día. Una tarjeta por historia, con descripción, responsable y criterios de validación.
+- **Al día:** la tarjeta se mueve cuando cambia el estado y se cierra al terminar.
+- **README:** propio del grupo. Explica qué hace el proyecto, cómo se instala y se arranca, tecnologías y versiones.
+
 
 ## 📦 Entregables
 
